@@ -9,7 +9,7 @@
     "zone.js": "0.8.18",
     "chart.js": "2.7.2",
     "font-awesome": "4.7.0",
-    "@angular/core": "5.0.0",
+    "@angular/core": "10.2.5",
     "@angular/forms": "5.0.0",
     "@angular/common": "5.0.0",
     "@angular/router": "5.0.0",
